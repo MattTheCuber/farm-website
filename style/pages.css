@@ -1,0 +1,12 @@
+a { color:#000000; text-decoration:underline; }
+a:hover { color:#3D878F; }
+a:active { color:#B30000; }
+a.links { text-decoration:none; }
+body { text-align:center; background-image:url("../images/background.jpg"); background-color:#cccccc;
+    font-family:orange juice; }
+footer { background-color:#3D878F; width:87.5%; margin-left:7%; }
+header { background-color:#7A0000; width:87.5%; margin-left:7%; }
+li { float:left; font-family:arial; text-decoration:none; }
+ol { margin-top:10px; margin-right:25px; float:right; list-style-type:none; }
+section#body { background-color:#693C1C; margin-left:7%; width:87.5%; }
+#title { font-size:50px; font-family:luna; color:#000000; text-decoration:none; }
